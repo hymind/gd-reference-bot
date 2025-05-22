@@ -17,4 +17,4 @@ async def on_message(message):
     if message.content.startswith('does this shit work'):
         await message.channel.send('yes')
 
-client.run('MTI2MDIwNjY2ODQwMzE3OTUzMg.G5M72N.vP7gEdLhOgKn3Rm1bIfangEa_qLLKSDMRDt7ac')
+client.run('bot_token_here')
